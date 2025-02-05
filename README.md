@@ -12,9 +12,8 @@ The Jupyter notebook demonstrates the usage of 'HelmholtzCoil.py' and tests the 
 
 ## ToDo
 
-Add example notebooks
-
-Improve the testing
+- Add example notebooks
+- Improve the testing
 
 ## General Information
 
