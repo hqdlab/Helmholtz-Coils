@@ -16,5 +16,9 @@ Add example notebooks
 
 Improve the testing
 
-## 
+## General Information
 
+This python module was created by the Hybrid Quantum Devices Lab of the University of Science and
+Technology of China (https://ustc.edu.cn).
+For problems, please contact hqdlab@majer.ch. 
+Please also report suggestions for improvements.
